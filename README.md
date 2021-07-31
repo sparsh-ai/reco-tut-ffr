@@ -1,1 +1,1 @@
-# reco-tutorial-base
+# Facebook Friend Recommender (FFR)
